@@ -1,0 +1,12 @@
+#ifndef KARNIVORA_H
+#define KARNIVORA_H
+
+#include "Dinosaurus.h"
+
+class Karnivora : public Dinosaurus {
+	public:
+		void makan();
+		virtual void muncul();
+};
+
+#endif

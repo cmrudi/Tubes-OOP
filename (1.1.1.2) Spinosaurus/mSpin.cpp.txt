@@ -1,0 +1,14 @@
+#include "spinosaurus.h"
+#include <iostream>
+
+using namespace std;
+int main() {
+	Spinosaurus S(5,5);
+	S.gerak();
+	S.muncul();
+	S.gerak();
+	S.muncul();
+
+
+	return 0;
+}

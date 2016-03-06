@@ -1,0 +1,15 @@
+#include "Board.h"
+#include ""
+#include <thread>
+#include <iostream>
+
+int main {
+	Board RumbleArena;
+	
+	Makhluk M;
+	system("cls");
+  
+	
+	
+	
+}
