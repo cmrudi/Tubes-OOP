@@ -1,6 +1,6 @@
 #ifndef HERBS_H_
 #define HERBS_H_
-
+//aaaknxnsiiwd
 #include "tumbuhan.h"
 
 class Herbs : public tumbuhan {
