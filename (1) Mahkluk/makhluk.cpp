@@ -1,11 +1,12 @@
 #include "makhluk.h"
 #include <iostream>
+//haha
 using namespace std;
 
 Makhluk::Makhluk() {
 	//Mahkluk Constructor
 	jumlah++;
-	
+
 }
 
 Makhluk::~Makhluk() {
@@ -14,4 +15,4 @@ Makhluk::~Makhluk() {
 }
 
 int Makhluk::jumlah = 0;
-//Inisialisasi static data member dari kelas 
+//Inisialisasi static data member dari kelas
