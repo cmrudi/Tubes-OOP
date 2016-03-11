@@ -14,7 +14,7 @@ predator::predator() {
 void predator::makan() {
     cout << "MAKAN AKAN DIIMPLEMENTASIKAN DISINI" << endl;
 }
-
+///fegeag
 void predator::muncul() {
     cout << "tumbuhan muncul" << endl;
 }
